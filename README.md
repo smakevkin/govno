@@ -1,3 +1,3 @@
-Hello! This is Ansible/Terraform repo for training! Sava pidoras!
+Hello! This is Ansible/Terraform repo for training! Sava klass!
 =================================================================
-Vlad too.
+Vlad net.
